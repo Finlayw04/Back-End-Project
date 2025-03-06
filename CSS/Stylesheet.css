@@ -13,3 +13,8 @@ label {
     font-weight: bold;
     margin: 0 0 5px;
 }
+
+.buttons {
+    margin: 20px 0 0;
+    text-align: center;
+}
