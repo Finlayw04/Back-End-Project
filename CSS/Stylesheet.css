@@ -1,1 +1,15 @@
 
+h1 {
+    color: #333;
+    font-size: 41px;
+    font-weight: bold;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+label {
+    color: #333
+    font-size: 21px;
+    font-weight: bold;
+    margin: 0 0 5px;
+}
