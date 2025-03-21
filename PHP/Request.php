@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -12,11 +12,11 @@
 
 <header>
     <h1>St Alphonsus Primary School</h1>
-    <a href="/HTML/Request.html">
-        <button>Request</button>
-    </a>
+    <a href="/HTML/Index.html">
+        <button>input</button>
+        </a>
     <hr>
-    <h2>Input</h2>
+    <h2>Request</h2>
 </header>
 
 <body>
